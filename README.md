@@ -23,6 +23,7 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Valeo** | Summer Internship 2024 | Cairo, Egypt | <a href="https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Open"></a>| April 8|
 | **Siemens** | D2S Engineering Team Intern | Cairo, Egypt | <a href="https://www.linkedin.com/posts/noura-amr-00b106193_talentacquisition-internshipopportunity-siemensdigitalindustries-activity-7143248069122318336-aMUv?utm_source=share&utm_medium=member_ios"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| December 20|
 | **Update Co.** | Intern (Several Positions) | Cairo, Egypt | <a href="https://www.linkedin.com/posts/karim-ashour-935a95192_internship-opportunities-at-update-co-activity-7142485432256155648-_5pm"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| December 18|
 | **RSA** | RSA- Winter Internship 2024 | Cairo, Egypt | <a href="https://jobs.rsa.com/job/-/-/31988/57661443392"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| November 23|
